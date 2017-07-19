@@ -30,20 +30,21 @@ PRs are welcome.
   - [ ] drawRectangle
   - [ ] drawSector
 
-- [ ] chart
+- [ ] chart components
   - [ ] legend
-  - [ ] pie
-  - [ ] ring
   - [ ] axis
-  - [ ] scatter
-  - [ ] bubble
-  - [ ] area
-  - [ ] bar 
-  - [ ] line
-  - [ ] combo
-  - [ ] radar
-  - [ ] funnel
-  - [ ] grids.
+  - [ ] plot
+    - [ ] pie
+    - [ ] ring
+    - [ ] scatter
+    - [ ] bubble
+    - [ ] area
+    - [ ] bar 
+    - [ ] line
+    - [ ] combo
+    - [ ] radar
+    - [ ] funnel
+    - [ ] grids.
 
 - [ ] axis
   - [ ] grids
