@@ -27,6 +27,8 @@ PRs are welcome.
   - [ ] drawCircle
   - [ ] drawCurve
   - [ ] drawText
+  - [ ] drawRectangle
+  - [ ] drawSector
 
 - [ ] chart
   - [ ] legend
@@ -57,8 +59,20 @@ PRs are welcome.
   - [ ] drawFrom 
 
 - [ ] MISC  
+  - [ ] tooltip
   - [ ] data labels
   - [ ] annimation
   - [ ] trendline
   - [ ] exporting.
   - [ ] interlaced grids.
+
+- [ ] Utils
+  - [ ] measureText
+
+
+- [ ] Chart
+  - [ ] model
+  - [ ] plot(s)
+   - [ ] axis
+   - [ ] painter
+  - [ ] painter 
