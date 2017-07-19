@@ -34,7 +34,7 @@ PRs are welcome.
   - [ ] ring
   - [ ] axis
   - [ ] scatter
-  - [ ] bubble
+  - [ ] bubble
   - [ ] area
   - [ ] bar 
   - [ ] line
